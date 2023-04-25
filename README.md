@@ -1,8 +1,8 @@
 # cnn_news_app
 
-A new Flutter project.
+A Grazac Academy Chaalenge.
 
-## Getting Started
+## About the CNN News App
 
 This project is a starting point for a Flutter application.
 
