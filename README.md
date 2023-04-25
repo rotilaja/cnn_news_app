@@ -1,6 +1,6 @@
 # cnn_news_app
 
-A Grazac Academy Chaalenge.
+A Grazac Academy Challenge.
 
 ## About the CNN News App
 
